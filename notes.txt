@@ -1,0 +1,7 @@
+-----
+The Stanford Natural Language Processing Group
+http://nlp.stanford.edu/software/CRF-NER.shtml
+-----
+NER
+http://nlp.stanford.edu/software/stanford-ner-2014-10-26.zip
+-----
